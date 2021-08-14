@@ -10,7 +10,7 @@
 </table>
  -->
 
-## Automotive Trends in the United States
+## Automotible Trends in the United States
 There are many fa
 
 ## Motivation
