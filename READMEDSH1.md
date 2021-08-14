@@ -4,7 +4,7 @@
 replace ![Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png)with <img src="https://your-image-url.type) with <img src="https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png" width="100" height="100">" width="700" height="500">
 
 
-replace ![image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100">
+<!-- replace ![image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100"> -->
 
 <!-- # WebApp
 <table>
