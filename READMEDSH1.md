@@ -36,8 +36,7 @@ Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol wil
 
 ### Charts
 ![LinRegression Unemployment Rate v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129462636-4cdb1af0-eba4-4580-a010-7df81443e681.png)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+
 
 
 <!-- ## Mobile support
@@ -84,9 +83,11 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+[![Darrell Horich](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/D11eleven)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+
+<!-- [![Darrell Horich](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/D11eleven)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com) -->
 
 <!-- ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
