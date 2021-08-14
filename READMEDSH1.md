@@ -35,7 +35,7 @@ Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol wil
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG) -->
 
 ### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
+![LinRegression Unemployment Rate v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129462636-4cdb1af0-eba4-4580-a010-7df81443e681.png)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
