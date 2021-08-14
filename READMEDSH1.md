@@ -83,7 +83,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Darrell Horich]![unnamed](https://user-images.githubusercontent.com/82190357/129462713-d4ae3e41-c2b2-4841-a859-e697e238f64c.jpg)(https://github.com/D11eleven)
+[![Darrell Horich]![unnamed](https://user-images.githubusercontent.com/82190357/12688534?v=3&s=144.jpg)(https://github.com/D11eleven)
 
 <!-- [![Darrell Horich](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/D11eleven)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
