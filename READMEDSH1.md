@@ -35,13 +35,13 @@ In addition to the data analysis, our team learned that there are many more fact
 ![Correlation Matrix](https://user-images.githubusercontent.com/82190357/129466451-e132fcd3-eff2-4851-bd56-fb1bdcfb93a2.png)
 ![2017-2021 Sales Box Plots](https://user-images.githubusercontent.com/82190357/129466447-394a7fff-305d-40b0-8b97-8ca115e19bfd.png)
 
-
-
 ## Tools
 Excel,
 PPT,
 Python/Panda/Matplotlib,
 Jupyter Notebook
+
+![Dealership2](https://user-images.githubusercontent.com/82190357/129466605-cf269606-a27f-444c-9bbd-87744953759c.jpg)
 
 
 
