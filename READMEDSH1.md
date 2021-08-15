@@ -9,11 +9,7 @@
 <p align="center">
 [Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png)<img src="https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png" width="800" height="450"> 
 </p>
- -->
-<!-- <p align="center">
-  <img src="http://www.example.com/path/to/img.png">
-</p>
-<!-- <!-- replace ![image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100"> --> --> -->
+
 
 <!-- # WebApp
 <table>
