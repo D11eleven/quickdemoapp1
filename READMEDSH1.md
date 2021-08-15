@@ -1,7 +1,7 @@
 <!-- ![Screenshot_2](https://user-images.githubusercontent.com/82190357/129462799-cb91fd97-74f9-44b3-b877-fc0c8c571d8a.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png) -->
 
-![Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png)with with <img src="https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png" width="800" height="650">" 
+![Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png)<img src="https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png" width="750" height="625">" 
 
 
 <!-- <!-- replace ![image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100"> --> -->
