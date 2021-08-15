@@ -38,9 +38,9 @@ In addition to the data analysis, our team learned that there are many more fact
 
 
 ## Tools
-Excel
-PPT
-Python/Panda/Matplotlib
+Excel,
+PPT,
+Python/Panda/Matplotlib,
 Jupyter Notebook
 
 
