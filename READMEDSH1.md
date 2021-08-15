@@ -24,10 +24,12 @@
 Automobile Trends in the United States
   
   
-There are many factors that can influence vehicle sales. Our group project examined several of possible drivers to see if and how they relate to vehicle sales in the U.S. Through the use of statistical techniques, such as correlation and linear regression models, we were able to quantify the direction and strength of this 
+There are many factors that can influence vehicle sales. In this group project, our team examined several possible drivers to see if and how they relate to vehicle sales in the U.S. Through the use of statistical techniques, such as correlation and linear regression models, we were able to quantify the direction and strength of these drivers and their relationship with vehicle sales. 
   </p>
 
 ## Motivation
+
+
 
 ## Project
 
