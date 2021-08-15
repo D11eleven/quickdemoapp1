@@ -20,8 +20,10 @@
 </tr>
 </table>
  -->
-
+<p align="center">
 ## Automobile Trends in the United States
+  </p>
+  
 There are many fa
 
 ## Motivation
