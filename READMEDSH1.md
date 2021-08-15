@@ -93,8 +93,12 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Another WebApp, capable of comparing at least 10 stocks.
 
 ## Team
+Michelle Herman
+Daniella Mayoral
+[![Darrell Horich](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/D11eleven)
 
-[![Darrell Horich](https://github.com/D11eleven)
+Daniella Mayoral
+
 
 <!-- [![Darrell Horich](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/D11eleven)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
