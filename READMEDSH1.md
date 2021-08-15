@@ -36,7 +36,7 @@ Although there are numerous factors of influence, ranging from political to econ
 ## Problem Solved
 Our team wanted to find out how volatility in any of these drivers influenced vehicles sales. Knowing the state of any of these drivers and whether they may be decreasing or increasing may be useful to know if in the market for a vehicle. 
 
-## What did we Learn
+## What Did We Learn
 In addition to the data analysis, our team learned that there are many more factors that can influence vehicle sales. We also determined that the drivers we researched in this study, even though some of which may have a correlation to vehicles sales, the relationships were not strong enough to conclude that they were statistically significant and were unable to prove a correlation/causation effect. 
 
 
