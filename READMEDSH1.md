@@ -22,9 +22,10 @@
  -->
 <p align="center">
 Automobile Trends in the United States
-  </p>
   
-There are many fa
+  
+There are many factors that can influence vehicle sales. Our group project examined several of possible drivers to see if and how they relate to vehicle sales in the U.S. Through the use of statistical techniques, such as correlation and linear regression models, we were able to quantify the direction and strength of this 
+  </p>
 
 ## Motivation
 
