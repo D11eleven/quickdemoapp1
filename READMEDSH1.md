@@ -1,8 +1,8 @@
 <!-- ![Screenshot_2](https://user-images.githubusercontent.com/82190357/129462799-cb91fd97-74f9-44b3-b877-fc0c8c571d8a.png) -->
 
-<p align="center">
+<!-- <p align="center"> -->
 ![Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png)
-</p>
+<!-- </p> -->
 
 
 <!-- 
