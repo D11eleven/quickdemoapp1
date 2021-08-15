@@ -5,21 +5,6 @@
 <!-- </p> -->
 
 
-<!-- 
-<p align="center">
-[Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png)<img src="https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png" width="800" height="450"> 
-</p>
-
-
-<!-- # WebApp
-<table>
-<tr>
-<td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
-</td>
-</tr>
-</table>
- -->
 <p align="center">
 Automobile Trends in the United States
   
@@ -42,15 +27,7 @@ In addition to the data analysis, our team learned that there are many more fact
 
 ![FORD_PRODUCTION1](https://user-images.githubusercontent.com/82190357/129466043-8d780366-1c1c-431d-95fc-60e0d9bcf1ec.jpg)
 
-<!-- ## Site -->
 
-<!-- ### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
-
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG) -->
 
 ## Charts
 ![LinRegression Unemployment Rate v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129462636-4cdb1af0-eba4-4580-a010-7df81443e681.png)
@@ -58,47 +35,15 @@ Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol wil
 ![Correlation Matrix](https://user-images.githubusercontent.com/82190357/129466451-e132fcd3-eff2-4851-bd56-fb1bdcfb93a2.png)
 ![2017-2021 Sales Box Plots](https://user-images.githubusercontent.com/82190357/129466447-394a7fff-305d-40b0-8b97-8ca115e19bfd.png)
 
-<!-- ## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png) -->
 
 
+## Tools
+Excel
+PPT
+Python/Panda/Matplotlib
+Jupyter Notebook
 
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
-
-### Development
-Want to contribute? Great!
-
-<!-- To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results. -->
-
-
-## Built with 
-
-<!-- - [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins. -->
-
-
-## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
 
 ## Team
 Michelle Herman
@@ -110,12 +55,5 @@ Daniella Mayoral
 Daniella Mayoral
 
 
-<!-- [![Darrell Horich](https://github.com/D11eleven)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
----|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com) -->
-
-<!-- ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
-
-MIT © [Harsh Vijay ](https://github.com/iharsh234) -->
 
 
