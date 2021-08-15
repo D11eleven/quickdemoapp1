@@ -28,10 +28,10 @@ There are many factors that can influence vehicle sales. In this group project, 
   </p>
 
 ## Motivation
-
-
+To explore specific drivers of influence on vehicle sales in the U.S. 
 
 ## Project
+
 
 ## Issues Addressed
 
