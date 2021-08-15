@@ -54,7 +54,7 @@ Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol wil
 
 ## Charts
 ![LinRegression Unemployment Rate v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129462636-4cdb1af0-eba4-4580-a010-7df81443e681.png)
-
+![LinRegression Gas v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129466146-9163c1e8-a034-4543-9659-fdf6715ed196.png)
 
 
 <!-- ## Mobile support
