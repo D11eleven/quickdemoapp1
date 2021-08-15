@@ -55,7 +55,8 @@ Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol wil
 ## Charts
 ![LinRegression Unemployment Rate v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129462636-4cdb1af0-eba4-4580-a010-7df81443e681.png)
 ![LinRegression Gas v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129466146-9163c1e8-a034-4543-9659-fdf6715ed196.png)
-
+![Correlation Matrix](https://user-images.githubusercontent.com/82190357/129466451-e132fcd3-eff2-4851-bd56-fb1bdcfb93a2.png)
+![2017-2021 Sales Box Plots](https://user-images.githubusercontent.com/82190357/129466447-394a7fff-305d-40b0-8b97-8ca115e19bfd.png)
 
 <!-- ## Mobile support
 The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
